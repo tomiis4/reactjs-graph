@@ -1,0 +1,20 @@
+[
+    {
+        "num": 0,
+        "id": "item0",
+        "endPointHeight": 1,
+        "endPointWidth": 3
+    },
+    {
+        "num": 1,
+        "id": "item1",
+        "endPointHeight": 1.5,
+        "endPointWidth":  3
+    },
+    {
+        "num": "2",
+        "id": "item2",
+        "endPointHeight": 3,
+        "endPointWidth": 0.5
+    }
+]
